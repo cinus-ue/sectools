@@ -1,2 +1,2 @@
 # sectools
-Security and Hacking Tools
+Security and hacking tools
